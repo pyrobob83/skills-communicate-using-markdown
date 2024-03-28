@@ -24,3 +24,9 @@ var myVar = "Hello, world!";
     background-color: #000;
 }
 ```
+
+Now here's a task lisk
+
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
